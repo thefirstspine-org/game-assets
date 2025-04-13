@@ -26,6 +26,7 @@
     "@thefirstspine/logs-nest": "^8.1.4",
     "@thefirstspine/types-game": "^1.0.3",
     "@types/node-fetch": "^2.6.12",
+    "appoptics-apm": "^10.2.2",
     "dotenv": "^16.4.7",
     "node-fetch": "^3.3.2",
     "reflect-metadata": "^0.2.2",
