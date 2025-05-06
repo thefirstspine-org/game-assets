@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const jellyfishCard: ICard = {
@@ -17,6 +17,7 @@ const jellyfishCard: ICard = {
     fr: `Méduse`,
   },
   stats: {
+    effects: ['jellyfish'],
     life: 3,
     bottom: {
       defense: 0,

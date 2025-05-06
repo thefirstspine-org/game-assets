@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const juvenilegreatAncientCard: ICard = {
@@ -17,6 +17,7 @@ const juvenilegreatAncientCard: ICard = {
     fr: `Grand Ancien juvénile`,
   },
   stats: {
+    effects: ['juvenile-great-ancient'],
     capacities: ['burdenEarth'],
     life: 3,
     bottom: {

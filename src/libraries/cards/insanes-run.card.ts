@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const insanesRunCard: ICard = {
@@ -17,6 +17,7 @@ const insanesRunCard: ICard = {
     fr: `Rune de Démence`,
   },
   stats: {
+    effects: ['insanes-run'],
     life: 1,
     capacities: ['death'],
     bottom: {

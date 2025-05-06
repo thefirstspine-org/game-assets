@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const soulOfASacrifiedHunterCard: ICard = {
@@ -18,6 +18,7 @@ const soulOfASacrifiedHunterCard: ICard = {
     fr: `Âme d'un Chasseur Sacrifié`,
   },
   stats: {
+    effects: ['soul-of-a-sacrified-hunter'],
     life: 0,
     bottom: {
       defense: 1,

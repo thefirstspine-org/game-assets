@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const iceStatueCard: ICard = {
@@ -17,6 +17,7 @@ const iceStatueCard: ICard = {
     fr: `Statue de Glace`,
   },
   stats: {
+    effects: ['ice-statue'],
     life: 10,
     capacities: [],
     bottom: {

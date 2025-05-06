@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const fleshHammerCard: ICard = {
@@ -18,6 +18,7 @@ const fleshHammerCard: ICard = {
     fr: `Marteau de Chair`,
   },
   stats: {
+    effects: ['flesh-hammer'],
     life: 3,
     bottom: {
       defense: 1,

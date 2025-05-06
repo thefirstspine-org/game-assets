@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const insanesEchoCard: ICard = {
@@ -18,6 +18,7 @@ const insanesEchoCard: ICard = {
     fr: `Echo de Démence`,
   },
   stats: {
+    effects: ['insanes-echo'],
     life: 5,
     bottom: {
       defense: 0,

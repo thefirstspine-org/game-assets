@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const monstrousPortalCard: ICard = {
@@ -18,6 +18,7 @@ const monstrousPortalCard: ICard = {
     fr: `Portail Monstrueux`,
   },
   stats: {
+    effects: ['monstrous-portal'],
     life: 5,
     bottom: {
       defense: 1,

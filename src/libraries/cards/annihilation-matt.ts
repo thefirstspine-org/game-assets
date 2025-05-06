@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const annihilationMattCard: ICard = {
@@ -18,6 +18,7 @@ const annihilationMattCard: ICard = {
     fr: `Mât de l'Annihilation`,
   },
   stats: {
+    effects: ['annihilation-matt'],
     life: 2,
     bottom: {
       defense: 0,

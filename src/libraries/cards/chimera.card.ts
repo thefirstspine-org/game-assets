@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const chimeraCard: ICard = {
@@ -18,6 +18,7 @@ const chimeraCard: ICard = {
     fr: `Chimère`,
   },
   stats: {
+    effects: ['chimera'],
     life: 4,
     bottom: {
       defense: 2,

@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const greatAncientEggCard: ICard = {
@@ -18,6 +18,7 @@ const greatAncientEggCard: ICard = {
     fr: `Œuf de Grand Ancien`,
   },
   stats: {
+    effects: ['great-ancient-egg'],
     life: 3,
     bottom: {
       defense: 1,

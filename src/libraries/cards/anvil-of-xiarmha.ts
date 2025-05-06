@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const anvilOfXiarmhaCard: ICard = {
@@ -18,6 +18,7 @@ const anvilOfXiarmhaCard: ICard = {
     fr: `Enclume de Xiarm'ha`,
   },
   stats: {
+    effects: ['anvil-of-xiarmha'],
     life: 3,
     bottom: {
       defense: 1,

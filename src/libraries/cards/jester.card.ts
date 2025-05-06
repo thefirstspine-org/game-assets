@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const jesterCard: ICard = {
@@ -17,6 +17,7 @@ const jesterCard: ICard = {
     fr: `Bouffon`,
   },
   stats: {
+    effects: ['jester'],
     life: 4,
     bottom: {
       defense: 1,

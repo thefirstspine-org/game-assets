@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const pocketVolcanoCard: ICard = {
@@ -17,6 +17,7 @@ const pocketVolcanoCard: ICard = {
     fr: `Volcan de Poche`,
   },
   stats: {
+    effects: ['pocket-volcano'],
     life: 4,
     capacities: ['grow'],
     bottom: {

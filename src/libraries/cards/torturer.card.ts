@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const torturerCard: ICard = {
@@ -18,6 +18,7 @@ const torturerCard: ICard = {
     fr: `Tortureur`,
   },
   stats: {
+    effects: ['torturer'],
     life: 3,
     capacities: ['grow'],
     bottom: {

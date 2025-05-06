@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const caduceusCard: ICard = {
@@ -17,6 +17,7 @@ const caduceusCard: ICard = {
     fr: `Caducée`,
   },
   stats: {
+    effects: ['caduceus'],
     life: 5,
     bottom: {
       capacity: 'aura',

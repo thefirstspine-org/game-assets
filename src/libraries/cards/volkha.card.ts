@@ -1,4 +1,4 @@
-import { ICard } from '@thefirstspine/types-rest';
+import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
 const volkhaCard: ICard = {
@@ -17,6 +17,7 @@ const volkhaCard: ICard = {
     fr: `Volk'ha`,
   },
   stats: {
+    effects: ['volkha'],
     life: 3,
     capacities: ['burdenEarth'],
     bottom: {
