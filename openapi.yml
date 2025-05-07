@@ -1,0 +1,154 @@
+openapi: 3.0.4
+info:
+  title: Arena API - OpenAPI 3.0
+  version: 1.0.0
+externalDocs:
+  description: Find out more about Swagger
+  url: https://swagger.io
+servers:
+  - url: https://arena.thefirstspine.fr
+tags:
+  - name: decks
+  - name: cards
+  - name: game-types
+paths:
+  /decks:
+    get:
+      tags:
+        - decks
+      summary: Get the decks
+      operationId: decks
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Deck'
+  /decks/deckId:
+    get:
+      tags:
+        - decks
+      summary: Get a deck
+      operationId: decks/deckId
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Deck'
+  /cards:
+    get:
+      tags:
+        - cards
+      summary: Get the cards
+      operationId: cards
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Card'
+  /cards/cardId:
+    get:
+      tags:
+        - cards
+      summary: Get a card
+      operationId: cards/cardId
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Card'
+components:
+  schemas:
+    Deck:
+      type: object
+      properties:
+        type:
+          type: string
+          enum:
+            - destiny
+            - origin
+            - expension
+        cards:
+          type: array
+          items:
+            $ref: '#/components/schemas/Card'
+    Card:
+      type: object
+      properties:
+        id:
+          type: string
+        imageUrl:
+          type: string
+        name:
+          $ref: '#/components/schemas/Localized'
+        text:
+          $ref: '#/components/schemas/Localized'
+        lore:
+          $ref: '#/components/schemas/Localized'
+        type:
+          type: string
+          enum:
+            - spell
+            - creature
+            - artifact
+            - player
+            - square
+        stats:
+          $ref: '#/components/schemas/CardStat'
+        art:
+          type: string
+    Localized:
+      type: object
+      properties:
+        fr:
+          type: string
+        en:
+          type: string
+    CardStat:
+      type: object
+      properties:
+        top:
+          $ref: '#/components/schemas/CardSideStat'
+        right:
+          $ref: '#/components/schemas/CardSideStat'
+        bottom:
+          $ref: '#/components/schemas/CardSideStat'
+        left:
+          $ref: '#/components/schemas/CardSideStat'
+        capacities:
+          type: array
+          items:
+            type: string
+            enum:
+              - run
+              - grow
+              - death
+              - burdenEarth
+              - treason
+        effects:
+          type: array
+          items:
+            type: string
+    CardSideStat:
+      type: object
+      properties:
+        strength:
+          type: integer
+        defense:
+          type: integer
+        capacity:
+          type: string
+          enum:
+            - aura
+            - threat
