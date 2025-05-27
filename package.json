@@ -20,10 +20,10 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs/common": "^11.1.1",
-    "@nestjs/core": "^11.1.1",
-    "@nestjs/platform-express": "^11.1.1",
-    "@thefirstspine/logs-nest": "^9.0.3",
+    "@nestjs/common": "^11.1.2",
+    "@nestjs/core": "^11.1.2",
+    "@nestjs/platform-express": "^11.1.2",
+    "@thefirstspine/logs-nest": "^9.1.0",
     "@thefirstspine/types-game": "^1.0.5",
     "@types/node-fetch": "^2.6.12",
     "dotenv": "^16.5.0",
@@ -33,10 +33,10 @@
   },
   "devDependencies": {
     "@nestjs/cli": "^11.0.7",
-    "@nestjs/testing": "^11.1.1",
+    "@nestjs/testing": "^11.1.2",
     "@types/express": "^5.0.2",
     "@types/jest": "29.5.14",
-    "@types/node": "22.15.19",
+    "@types/node": "22.15.21",
     "@types/supertest": "^6.0.3",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.0.0",
