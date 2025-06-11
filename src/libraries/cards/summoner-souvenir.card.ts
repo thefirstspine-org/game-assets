@@ -11,7 +11,7 @@ const summonerSouvenirCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/summoner-souvenir.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/summoner-souvenir.png`,
   name: {
     en: `Souvenir of a Summoner`,
     fr: `Souvenir d'un Invocateur`,

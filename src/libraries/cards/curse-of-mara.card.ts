@@ -11,7 +11,7 @@ const curseOfMaraCard: ICard = {
     en: `« Your fault becomes your burden. »\n- Mara, prophetess of Exodia.`,
     fr: `« Votre faute devient votre fardeau. »\n- Mara, prophétesse d'Exodia.`,
   },
-  imageUrl: `https://static.thefirstspine.fr/curse-of-mara.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/curse-of-mara.png`,
   name: {
     en: `Curse of Mara`,
     fr: `Malédiction de Mara`,

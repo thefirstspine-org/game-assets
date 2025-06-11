@@ -12,7 +12,7 @@ const theTowerCard: ICard = {
     en: `« A stone lady who protects and punishes. »\n- Mara, prophetess of Exodia`,
     fr: `« Une dame de pierre qui protège et punit. »\n- Mara, prophétesse d'Exodia`,
   },
-  imageUrl: `https://static.thefirstspine.fr/the-tower.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/the-tower.png`,
   name: {
     en: `The Tower`,
     fr: `La Tour`,

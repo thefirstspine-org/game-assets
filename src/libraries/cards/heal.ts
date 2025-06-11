@@ -11,7 +11,7 @@ const healCard: ICard = {
     en: `« Take your ointment. »\n- Argento, the healer`,
     fr: `« Prenez bien votre onguent. »\n- Le guérisseur Argento`,
   },
-  imageUrl: `https://static.thefirstspine.fr/heal.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/heal.png`,
   name: {
     en: `Heal`,
     fr: `Soin`,

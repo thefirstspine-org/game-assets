@@ -12,7 +12,7 @@ const anvilOfXiarmhaCard: ICard = {
     fr: ``,
   },
   art: '',
-  imageUrl: `https://static.thefirstspine.fr/placeholder.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/placeholder.png`,
   name: {
     en: `Anvil of Xiarm'ha`,
     fr: `Enclume de Xiarm'ha`,

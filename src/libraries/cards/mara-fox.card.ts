@@ -12,7 +12,7 @@ const maraFoxCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/mara-fox.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/mara-fox.png`,
   name: {
     en: `Mara's Fox`,
     fr: `Renard de Mara`,

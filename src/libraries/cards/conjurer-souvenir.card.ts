@@ -11,7 +11,7 @@ const conjurerSouvenirCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/conjurer-souvenir.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/conjurer-souvenir.png`,
   name: {
     en: `Souvenir of a Conjurer`,
     fr: `Souvenir d'un Illusionniste`,

@@ -12,7 +12,7 @@ const summonerCard: ICard = {
     fr: `« Il va de soi qu'un invocateur connaît les arcanes de la vie. Qu'en est-il de la mort ? »\n- Un Chasseur`,
   },
   art: 'Maylhine',
-  imageUrl: `https://static.thefirstspine.fr/summoner.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/summoner.png`,
   name: {
     en: `Summoner`,
     fr: `Invocateur`,

@@ -11,7 +11,7 @@ const fireCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/fire.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/fire.png`,
   name: {
     en: `Fire`,
     fr: `Embrasement`,

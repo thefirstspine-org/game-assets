@@ -11,7 +11,7 @@ const hunterSouvenirCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/hunter-souvenir.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/hunter-souvenir.png`,
   name: {
     en: `Souvenir of a Hunter`,
     fr: `Souvenir d'un Chasseur`,

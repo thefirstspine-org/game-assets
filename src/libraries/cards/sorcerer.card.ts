@@ -12,7 +12,7 @@ const sorcererCard: ICard = {
     fr: `« Ton destin m'appartient. »\n- Un Prestidigitateur`,
   },
   art: 'Maylhine',
-  imageUrl: `https://static.thefirstspine.fr/sorcerer.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/sorcerer.png`,
   name: {
     en: `Sorcerer`,
     fr: `Prestidigitateur`,

@@ -12,7 +12,7 @@ const conjurerCard: ICard = {
     fr: `« Il ne manque plus que des machicoulis et cette Tour sera parfaite. »\n- Un Illusionniste`,
   },
   art: 'Maylhine',
-  imageUrl: `https://static.thefirstspine.fr/conjurer.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/conjurer.png`,
   name: {
     en: `Conjurer`,
     fr: `Illusionniste`,

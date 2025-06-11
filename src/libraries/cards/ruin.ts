@@ -11,7 +11,7 @@ const ruinCard: ICard = {
     en: `« They led us to our ruin. »\n- Démence, the first prophet`,
     fr: `« Ils nous ont conduit à notre ruine. »\n- Démence, le premier prophète`,
   },
-  imageUrl: `https://static.thefirstspine.fr/ruin.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/ruin.png`,
   name: {
     en: `Ruin`,
     fr: `Ruine`,

@@ -12,7 +12,7 @@ const waterCard: ICard = {
     fr: ``,
   },
   art: 'Teddy Gandon',
-  imageUrl: `https://static.thefirstspine.fr/water.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/water.png`,
   name: {
     en: `Water`,
     fr: `Eau`,

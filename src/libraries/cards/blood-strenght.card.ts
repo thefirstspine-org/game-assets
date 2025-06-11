@@ -11,7 +11,7 @@ const bloodStrengthCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/blood-strength.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/blood-strength.png`,
   name: {
     en: `Blood Strength`,
     fr: `Force de Sang`,

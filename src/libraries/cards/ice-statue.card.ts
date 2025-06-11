@@ -11,7 +11,7 @@ const iceStatueCard: ICard = {
     en: `« No one has ever seen the Man in White, and yet he seems to be everywhere. It is said that this power comes from a fragment of Crown. »\n- Merlin, Exodia's latest scholar`,
     fr: `« Personne n'a jamais vu l'Homme en Blanc, et pourtant il semble être partout. On raconte que cette puissance vient d'un fragment de Couronne. »\n- Merlin, dernier érudit d'Exodia`,
   },
-  imageUrl: `https://static.thefirstspine.fr/ice-statue.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/ice-statue.png`,
   name: {
     en: `Ice Statue`,
     fr: `Statue de Glace`,

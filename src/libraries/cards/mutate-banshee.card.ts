@@ -11,7 +11,7 @@ const mutateBansheeCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/mutate-banshee.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/mutate-banshee.png`,
   name: {
     en: `Mutate Banshee`,
     fr: `Mutation de Banshee`,

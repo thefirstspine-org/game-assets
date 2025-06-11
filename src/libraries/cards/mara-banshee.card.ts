@@ -12,7 +12,7 @@ const maraBansheeCard: ICard = {
     fr: ``,
   },
   art: 'Maylhine, Teddy Gandon',
-  imageUrl: `https://static.thefirstspine.fr/mara-banshee.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/mara-banshee.png`,
   name: {
     en: `Mara's Banshee`,
     fr: `Banshee de Mara`,

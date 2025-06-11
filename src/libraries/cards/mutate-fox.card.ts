@@ -11,7 +11,7 @@ const mutateFoxCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/mutate-fox.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/mutate-fox.png`,
   name: {
     en: `Mutate Fox`,
     fr: `Mutation de Renard`,

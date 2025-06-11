@@ -12,7 +12,7 @@ const frozenFoxCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/frozen-fox.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/frozen-fox.png`,
   name: {
     en: `Frozen Fox`,
     fr: `Renard Gelé`,

@@ -12,7 +12,7 @@ const ovilCard: ICard = {
     fr: `« Renard, je te donne la vie. Banshee, je te donne la vie. Dragon, je te donne la vie. Car je suis votre père à tous. »\n- Ovil`,
   },
   art: 'Maylhine',
-  imageUrl: `https://static.thefirstspine.fr/ovil.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/ovil.png`,
   name: {
     en: `Ovil the Forgotten`,
     fr: `Ovil l'Oublié`,

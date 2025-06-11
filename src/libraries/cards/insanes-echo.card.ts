@@ -12,7 +12,7 @@ const insanesEchoCard: ICard = {
     fr: `« De Démence je n'en porte que le nom. »\n- Démence, le premier Prophète.`,
   },
   art: 'Maylhine & Teddy Gandon',
-  imageUrl: `https://static.thefirstspine.fr/insanes-echo.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/insanes-echo.png`,
   name: {
     en: `Insane's Echo`,
     fr: `Echo de Démence`,
