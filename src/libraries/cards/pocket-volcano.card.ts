@@ -11,7 +11,7 @@ const pocketVolcanoCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/placeholder.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/placeholder.png`,
   name: {
     en: `Tiny Volcano`,
     fr: `Volcan de Poche`,

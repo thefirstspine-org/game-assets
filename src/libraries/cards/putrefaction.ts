@@ -11,7 +11,7 @@ const putrefactionCard: ICard = {
     en: ``,
     fr: `« La pourriture, c'est la vie. »\n- Démence, le premier prophète`,
   },
-  imageUrl: `https://static.thefirstspine.fr/putrefaction.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/putrefaction.png`,
   name: {
     en: `Putrefaction`,
     fr: `Putréfaction`,

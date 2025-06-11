@@ -11,7 +11,7 @@ const reconstructCard: ICard = {
     en: `« From their stones, I will build their own ruin. »\n- Ovil, the forgotten`,
     fr: `« De leurs pierres, je construirai leur propre ruine. »\n- Ovil, l'oublié`,
   },
-  imageUrl: `https://static.thefirstspine.fr/reconstruct.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/reconstruct.png`,
   name: {
     en: `Reconstruct`,
     fr: `Reconstruction`,

@@ -11,7 +11,7 @@ const sorcererSouvenirCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/sorcerer-souvenir.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/sorcerer-souvenir.png`,
   name: {
     en: `Souvenir of a Sorcerer`,
     fr: `Souvenir d'un Prestidigitateur`,

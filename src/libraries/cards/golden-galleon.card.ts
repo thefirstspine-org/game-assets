@@ -12,7 +12,7 @@ const goldenGalleonCard: ICard = {
     fr: ``,
   },
   art: 'Maylhine',
-  imageUrl: `https://static.thefirstspine.fr/golden-galleon.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/golden-galleon.png`,
   name: {
     en: `Golden Galleon`,
     fr: `Gallion d'Or`,

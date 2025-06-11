@@ -11,7 +11,7 @@ const juvenilegreatAncientCard: ICard = {
     en: ``,
     fr: `« Il ne devrait pas être ici. »\n- Merlin, dernier érudit d'Exodia`,
   },
-  imageUrl: `https://static.thefirstspine.fr/juvenile-great-ancient.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/juvenile-great-ancient.png`,
   name: {
     en: `Juvenile Great Ancient`,
     fr: `Grand Ancien juvénile`,

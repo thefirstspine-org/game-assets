@@ -11,7 +11,7 @@ const insaneRuinCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/insane-ruin.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/insane-ruin.png`,
   name: {
     en: `Insane's Ruin`,
     fr: `Ruine de Démence`,

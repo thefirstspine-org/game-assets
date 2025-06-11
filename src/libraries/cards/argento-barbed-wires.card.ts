@@ -12,7 +12,7 @@ const argentoBarbedWiresCard: ICard = {
     fr: ``,
   },
   art: 'Maylhine, Teddy Gandon',
-  imageUrl: `https://static.thefirstspine.fr/argento-barbed-wires.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/argento-barbed-wires.png`,
   name: {
     en: `Argento's Barbed wire`,
     fr: `Barbelés d'Argento`,

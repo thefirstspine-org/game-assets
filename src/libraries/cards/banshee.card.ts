@@ -12,7 +12,7 @@ const bansheeCard: ICard = {
     fr: `« Je ne suis que la messagère. »\n- Une banshee.`,
   },
   art: 'Maylhine',
-  imageUrl: `https://static.thefirstspine.fr/banshee.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/banshee.png`,
   name: {
     en: `Banshee`,
     fr: `Banshee`,

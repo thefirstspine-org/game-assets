@@ -11,7 +11,7 @@ const greatAncientCard: ICard = {
     en: `« He shouldn't be here. »\n- Merlin, Exodia's latest scholar`,
     fr: `« Il ne devrait pas être ici. »\n- Merlin, dernier érudit d'Exodia`,
   },
-  imageUrl: `https://static.thefirstspine.fr/great-ancient.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/great-ancient.png`,
   name: {
     en: `Great Ancient`,
     fr: `Grand Ancien`,

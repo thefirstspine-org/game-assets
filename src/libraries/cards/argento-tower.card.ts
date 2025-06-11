@@ -12,7 +12,7 @@ const argentoTowerCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/argento-tower.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/argento-tower.png`,
   name: {
     en: `Argento's Tower`,
     fr: `Tour d'Argento`,

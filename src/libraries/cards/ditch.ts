@@ -12,7 +12,7 @@ const ditchCard: ICard = {
     fr: ``,
   },
   art: 'Teddy Gandon',
-  imageUrl: `https://static.thefirstspine.fr/ditch.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/ditch.png`,
   name: {
     en: `Pit`,
     fr: `Fosse`,

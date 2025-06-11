@@ -11,7 +11,7 @@ const eternityGiftCard: ICard = {
     en: `« I will offer your son eternity. »\n- Ovil, l'oublié`,
     fr: `« J'offrirai à votre fils l'éternité. »\n- Ovil, l'oublié`,
   },
-  imageUrl: `https://static.thefirstspine.fr/eternity-gift.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/eternity-gift.png`,
   name: {
     en: `Eternity gift`,
     fr: `Don d'éternité`,

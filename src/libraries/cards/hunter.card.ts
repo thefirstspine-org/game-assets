@@ -12,7 +12,7 @@ const hunterCard: ICard = {
     fr: `« J'en ai éliminé trois aujourd'hui. Je me sens sale d'avoir utiliser ces pouvoirs abjectes. Je pense que le Sacrifice n'est pas loin. »\n- Un Chasseur`,
   },
   art: 'Maylhine',
-  imageUrl: `https://static.thefirstspine.fr/hunter.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/hunter.png`,
   name: {
     en: `Hunter`,
     fr: `Chasseur`,

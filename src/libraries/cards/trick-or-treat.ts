@@ -11,7 +11,7 @@ const trickOrTreatCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/trick-or-treat.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/trick-or-treat.png`,
   name: {
     en: `Trick or Treat`,
     fr: `Un bonbon ou un Tour`,

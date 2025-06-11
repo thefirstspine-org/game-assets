@@ -11,7 +11,7 @@ const mutateTowerCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/mutate-tower.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/mutate-tower.png`,
   name: {
     en: `Mutate Tower`,
     fr: `Mutation de Tour`,

@@ -12,7 +12,7 @@ const lavaCard: ICard = {
     fr: ``,
   },
   art: 'Teddy Gandon',
-  imageUrl: `https://static.thefirstspine.fr/lava.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/lava.png`,
   name: {
     en: `Lava`,
     fr: `Lave`,

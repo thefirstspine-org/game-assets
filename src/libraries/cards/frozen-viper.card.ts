@@ -12,7 +12,7 @@ const frozenViperCard: ICard = {
     fr: `« Il n'y a pas de Dieu. »\n- Merlin, dernier érudit d'Exodia.`,
   },
   art: 'Maylhine',
-  imageUrl: `https://static.thefirstspine.fr/frozen-viper.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/frozen-viper.png`,
   name: {
     en: `Frozen Viper`,
     fr: `Vipère gelée`,

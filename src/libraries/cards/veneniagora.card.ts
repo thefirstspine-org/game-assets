@@ -12,7 +12,7 @@ const veneniagoraCard: ICard = {
     en: `« It is also called "Basil of Death". »\n- Enihlyam, illustrator of the Faith.`,
     fr: `« On l'appelle aussi "Basilic de la Mort". »\n- Enihlyam, illustratrice de la Foi.`,
   },
-  imageUrl: `https://static.thefirstspine.fr/veneniagora.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/veneniagora.png`,
   name: {
     en: `Veneniagora`,
     fr: `Vénéniagora`,

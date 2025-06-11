@@ -11,7 +11,7 @@ const gargoyleCard: ICard = {
     en: `« This thing from Elsewhere. »\n- Merlin, Exodia's latest scholar.`,
     fr: `« Cette chose, venue d'Ailleurs. »\n- Merlin, dernier érudit d'Exodia.`,
   },
-  imageUrl: `https://static.thefirstspine.fr/placeholder.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/placeholder.png`,
   name: {
     en: `Gargoyle`,
     fr: `Gargouille`,

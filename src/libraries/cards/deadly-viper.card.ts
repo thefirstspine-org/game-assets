@@ -12,7 +12,7 @@ const deadlyViperCard: ICard = {
     fr: `« Il n'y a pas de Dieu. »\n- Merlin, dernier érudit d'Exodia.`,
   },
   art: 'Maylhine',
-  imageUrl: `https://static.thefirstspine.fr/deadly-viper.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/deadly-viper.png`,
   name: {
     en: `Deadly Viper`,
     fr: `Vipère mortelle`,

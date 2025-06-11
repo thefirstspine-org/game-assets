@@ -11,7 +11,7 @@ const insanePutrefactionCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/insane-putrefaction.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/insane-putrefaction.png`,
   name: {
     en: `Insane's Putrefaction`,
     fr: `Putréfaction de Démence`,

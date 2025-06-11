@@ -12,7 +12,7 @@ const theFoxCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/the-fox.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/the-fox.png`,
   name: {
     en: `The Fox`,
     fr: `Le Renard`,

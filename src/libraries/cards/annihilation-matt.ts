@@ -12,7 +12,7 @@ const annihilationMattCard: ICard = {
     fr: ``,
   },
   art: '',
-  imageUrl: `https://static.thefirstspine.fr/annihilation-matt.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/annihilation-matt.png`,
   name: {
     en: `Annihilation Matt`,
     fr: `Mât de l'Annihilation`,

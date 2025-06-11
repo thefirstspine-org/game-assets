@@ -12,7 +12,7 @@ const burdenEarthCard: ICard = {
     fr: ``,
   },
   art: 'Teddy Gandon',
-  imageUrl: `https://static.thefirstspine.fr/burden-earth.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/burden-earth.png`,
   name: {
     en: `Burder Earth`,
     fr: `Terre brûlée`,

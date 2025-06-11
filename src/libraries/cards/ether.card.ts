@@ -11,7 +11,7 @@ const alterTheFateCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/ether.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/ether.png`,
   name: {
     en: `Ether`,
     fr: `Ether`,

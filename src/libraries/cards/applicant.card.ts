@@ -12,7 +12,7 @@ const applicantCard: ICard = {
     fr: ``,
   },
   art: 'Maylhine & Teddy Gandon',
-  imageUrl: `https://static.thefirstspine.fr/applicant.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/applicant.png`,
   name: {
     en: `Applicant`,
     fr: `Postulant`,

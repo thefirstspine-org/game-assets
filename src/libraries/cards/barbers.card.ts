@@ -12,7 +12,7 @@ const barbersCard: ICard = {
     fr: `« Je vous défie de les franchir. »\n- Olivier-le-fou-droyé.`,
   },
   art: 'Maylhine',
-  imageUrl: `https://static.thefirstspine.fr/barbers.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/barbers.png`,
   name: {
     en: `Barbed wire`,
     fr: `Barbelés`,

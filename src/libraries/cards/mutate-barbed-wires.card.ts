@@ -11,7 +11,7 @@ const mutateBarbedWiresCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://static.thefirstspine.fr/mutate-barbed-wires.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/mutate-barbed-wires.png`,
   name: {
     en: `Mutate Barbed Wires`,
     fr: `Mutation de Barbelés`,

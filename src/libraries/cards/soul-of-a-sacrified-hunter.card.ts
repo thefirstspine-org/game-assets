@@ -12,7 +12,7 @@ const soulOfASacrifiedHunterCard: ICard = {
     fr: ``,
   },
   art: 'Maylhine',
-  imageUrl: `https://static.thefirstspine.fr/soul-of-a-sacrified-hunter.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/soul-of-a-sacrified-hunter.png`,
   name: {
     en: `Soul of a Sacrified Hunter`,
     fr: `Âme d'un Chasseur Sacrifié`,
