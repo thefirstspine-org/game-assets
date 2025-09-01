@@ -1,7 +1,7 @@
 import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
-const theTowerCard: ICard = {
+const towerCard: ICard = {
   id: `the-tower`,
   text: {
     en: ``,
@@ -14,8 +14,8 @@ const theTowerCard: ICard = {
   },
   imageUrl: `https://game-assets.thefirstspine.fr/the-tower.png`,
   name: {
-    en: `The Tower`,
-    fr: `La Tour`,
+    en: `Tower`,
+    fr: `Tour`,
   },
   stats: {
     bottom: {
@@ -40,4 +40,4 @@ const theTowerCard: ICard = {
   type: 'artifact',
 };
 
-export default theTowerCard;
+export default towerCard;
