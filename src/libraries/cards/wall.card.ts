@@ -1,7 +1,7 @@
 import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
-const theWallCard: ICard = {
+const wallCard: ICard = {
   id: `the-wall`,
   text: {
     en: ``,
@@ -14,8 +14,8 @@ const theWallCard: ICard = {
   imageUrl: `https://game-assets.thefirstspine.fr/the-wall.png`,
   art: 'Teddy Gandon',
   name: {
-    en: `The Wall`,
-    fr: `La Muraille`,
+    en: `Wall`,
+    fr: `Muraille`,
   },
   stats: {
     life: 5,
@@ -39,4 +39,4 @@ const theWallCard: ICard = {
   type: 'artifact',
 };
 
-export default theWallCard;
+export default wallCard;

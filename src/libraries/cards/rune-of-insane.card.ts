@@ -1,7 +1,7 @@
 import { ICard } from '@thefirstspine/types-game';
 
 // tslint:disable: max-line-length
-const insanesRunCard: ICard = {
+const runeOfInsaneCard: ICard = {
   id: `insanes-run`,
   text: {
     en: `When this card is destroyed, choose a {creature}creature{/creature} or an {artifact}artifact{/artifact} and destroy it`,
@@ -44,4 +44,4 @@ const insanesRunCard: ICard = {
   type: 'artifact',
 };
 
-export default insanesRunCard;
+export default runeOfInsaneCard;
