@@ -11,7 +11,7 @@ const jellyfishCard: ICard = {
     en: ``,
     fr: ``,
   },
-  imageUrl: `https://game-assets.thefirstspine.fr/placeholder.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/jellyfish.png`,
   name: {
     en: `Jellyfish`,
     fr: `Méduse`,
