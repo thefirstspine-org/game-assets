@@ -11,7 +11,7 @@ const runeOfInsaneCard: ICard = {
     en: `« Their first attempt was the Crown. The second is called Volk'ha. »\n- Merlin, Exodia's latest scholar.`,
     fr: `« Leur première tentative fût la Couronne. La seconde s'appelle Volk'ha. »\n- Merlin, dernier érudit d'Exodia.`,
   },
-  imageUrl: `https://game-assets.thefirstspine.fr/placeholder.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/insanes-run.png`,
   name: {
     en: `Rune of Insane`,
     fr: `Rune de Démence`,
