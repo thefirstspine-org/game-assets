@@ -11,7 +11,7 @@ const jesterCard: ICard = {
     en: `« More the jester, the jester. »\n- Unknown author`,
     fr: `« Plus on est de bouffons... »\n- Auteur inconnu`,
   },
-  imageUrl: `https://game-assets.thefirstspine.fr/placeholder.png`,
+  imageUrl: `https://game-assets.thefirstspine.fr/jester.png`,
   name: {
     en: `Jester`,
     fr: `Bouffon`,
